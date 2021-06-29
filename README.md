@@ -9,7 +9,7 @@ O Letmeask é uma pequena aplicação voltada para criadores de conteudo, que pe
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=8257E5&labelColor=000000" alt="NLW Together 06" />
+  <img src="src/assets/screenshot/home.JPG" alt="NLW Together 06" />
 </p>
 
 <h2 align="center">Tecnologias Utilizada 🧪</h2>
@@ -19,4 +19,28 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
+</p>
+
+<h2 align="center">Como Usar 🤔</h2>
+
+   ```
+   - Clone esse repositório:
+   $ git clone https://github.com/kaironferreira/letmeask.git
+
+   - Entre no diretório:
+   $ cd letmeask-master
+
+   - Instale as dependências:
+   $ yarn
+
+   - Inicie o app: 
+   $ yarn start
+
+   ```
+
+<p>
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
+
+Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
+
 </p>
