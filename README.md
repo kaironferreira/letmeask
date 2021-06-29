@@ -5,7 +5,7 @@
 <h2 align="center">Sobre 📖</h2>
 
 <p>
-O Letmeask é uma pequena aplicação voltada para criadores de conteudo, que permite a criação se salas de Q&A com o seu público. Esta aplicação foi desenvolvida durante a  **[Next Level Week Together](https://nextlevelweek.com/)**, 2021.
+O Letmeask é uma pequena aplicação voltada para criadores de conteudo, que permite a criação de salas de Q&A com o seu público. Esta aplicação foi desenvolvida durante a  **[Next Level Week Together](https://nextlevelweek.com/)**, 2021.
 </p>
 
 <p align="center">
