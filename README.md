@@ -1,3 +1,3 @@
 <p>
-    <img src="src/logo.svg" width="160px">
+    <img src="src/assets/logo.svg" width="160px">
 </p>
